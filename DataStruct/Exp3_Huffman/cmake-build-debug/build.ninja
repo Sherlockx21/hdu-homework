@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/cmake-build-debug/
+cmake_ninja_workdir = E$:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Exp3_Huffman
 
@@ -49,45 +49,31 @@ cmake_ninja_workdir = E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/cmake-bui
 
 build cmake_object_order_depends_target_Exp3_Huffman: phony || CMakeFiles/Exp3_Huffman.dir
 
-build CMakeFiles/Exp3_Huffman.dir/decoding.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/decoding.c || cmake_object_order_depends_target_Exp3_Huffman
-  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\decoding.c.obj.d
+build CMakeFiles/Exp3_Huffman.dir/huffman.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/huffman.c || cmake_object_order_depends_target_Exp3_Huffman
+  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\huffman.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IE:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/.
+  INCLUDES = -IE:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/.
   OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
   OBJECT_FILE_DIR = CMakeFiles\Exp3_Huffman.dir
 
-build CMakeFiles/Exp3_Huffman.dir/encoding.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/encoding.c || cmake_object_order_depends_target_Exp3_Huffman
-  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\encoding.c.obj.d
+build CMakeFiles/Exp3_Huffman.dir/text.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/text.c || cmake_object_order_depends_target_Exp3_Huffman
+  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\text.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IE:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/.
+  INCLUDES = -IE:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/.
   OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
   OBJECT_FILE_DIR = CMakeFiles\Exp3_Huffman.dir
 
-build CMakeFiles/Exp3_Huffman.dir/initialize.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/initialize.c || cmake_object_order_depends_target_Exp3_Huffman
-  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\initialize.c.obj.d
+build CMakeFiles/Exp3_Huffman.dir/stack.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/stack.c || cmake_object_order_depends_target_Exp3_Huffman
+  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\stack.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IE:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/.
+  INCLUDES = -IE:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/.
   OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
   OBJECT_FILE_DIR = CMakeFiles\Exp3_Huffman.dir
 
-build CMakeFiles/Exp3_Huffman.dir/textprint.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/textprint.c || cmake_object_order_depends_target_Exp3_Huffman
-  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\textprint.c.obj.d
-  FLAGS = -g -std=gnu11
-  INCLUDES = -IE:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/.
-  OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
-  OBJECT_FILE_DIR = CMakeFiles\Exp3_Huffman.dir
-
-build CMakeFiles/Exp3_Huffman.dir/treeprint.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/treeprint.c || cmake_object_order_depends_target_Exp3_Huffman
-  DEP_FILE = CMakeFiles\Exp3_Huffman.dir\treeprint.c.obj.d
-  FLAGS = -g -std=gnu11
-  INCLUDES = -IE:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/.
-  OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
-  OBJECT_FILE_DIR = CMakeFiles\Exp3_Huffman.dir
-
-build CMakeFiles/Exp3_Huffman.dir/main.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/main.c || cmake_object_order_depends_target_Exp3_Huffman
+build CMakeFiles/Exp3_Huffman.dir/main.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/main.c || cmake_object_order_depends_target_Exp3_Huffman
   DEP_FILE = CMakeFiles\Exp3_Huffman.dir\main.c.obj.d
   FLAGS = -g -std=gnu11
-  INCLUDES = -IE:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/.
+  INCLUDES = -IE:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/.
   OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
   OBJECT_FILE_DIR = CMakeFiles\Exp3_Huffman.dir
 
@@ -99,7 +85,7 @@ build CMakeFiles/Exp3_Huffman.dir/main.c.obj: C_COMPILER__Exp3_Huffman_Debug E$:
 #############################################
 # Link the executable Exp3_Huffman.exe
 
-build Exp3_Huffman.exe: C_EXECUTABLE_LINKER__Exp3_Huffman_Debug CMakeFiles/Exp3_Huffman.dir/decoding.c.obj CMakeFiles/Exp3_Huffman.dir/encoding.c.obj CMakeFiles/Exp3_Huffman.dir/initialize.c.obj CMakeFiles/Exp3_Huffman.dir/textprint.c.obj CMakeFiles/Exp3_Huffman.dir/treeprint.c.obj CMakeFiles/Exp3_Huffman.dir/main.c.obj
+build Exp3_Huffman.exe: C_EXECUTABLE_LINKER__Exp3_Huffman_Debug CMakeFiles/Exp3_Huffman.dir/huffman.c.obj CMakeFiles/Exp3_Huffman.dir/text.c.obj CMakeFiles/Exp3_Huffman.dir/stack.c.obj CMakeFiles/Exp3_Huffman.dir/main.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Exp3_Huffman.dir
@@ -114,7 +100,7 @@ build Exp3_Huffman.exe: C_EXECUTABLE_LINKER__Exp3_Huffman_Debug CMakeFiles/Exp3_
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D E:\Gitfile\hdu-homework\DataStruct\Exp3_Huffman\cmake-build-debug && "D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D E:\Gitfile\hdu_homework\DataStruct\Exp3_Huffman\cmake-build-debug && "D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -125,7 +111,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D E:\Gitfile\hdu-homework\DataStruct\Exp3_Huffman\cmake-build-debug && "D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\Gitfile\hdu-homework\DataStruct\Exp3_Huffman -BE:\Gitfile\hdu-homework\DataStruct\Exp3_Huffman\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D E:\Gitfile\hdu_homework\DataStruct\Exp3_Huffman\cmake-build-debug && "D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\Gitfile\hdu_homework\DataStruct\Exp3_Huffman -BE:\Gitfile\hdu_homework\DataStruct\Exp3_Huffman\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -143,7 +129,7 @@ build Exp3_Huffman: phony Exp3_Huffman.exe
 # =============================================================================
 
 #############################################
-# Folder: E:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/cmake-build-debug
+# Folder: E:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/cmake-build-debug
 
 build all: phony Exp3_Huffman.exe
 

@@ -1,0 +1,19 @@
+# ninja log v5
+11	104	6907029040083840	CMakeFiles/Exp3_Huffman.dir/stack.c.obj	52577a1989b2214
+0	141	6907032424813896	build.ninja	2a301bdbf5a8f3cf
+2	105	6907036135702213	CMakeFiles/Exp3_Huffman.dir/text.c.obj	10bb886db2aeb74c
+14	108	6907036135732226	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+9	129	6907036135952258	CMakeFiles/Exp3_Huffman.dir/huffman.c.obj	77f0f736b020bd67
+129	313	6907036137752743	Exp3_Huffman.exe	3febf81f0442ec5a
+1	92	6907036313154852	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+92	256	6907036314775249	Exp3_Huffman.exe	3febf81f0442ec5a
+1	94	6907036960034584	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+94	264	6907036961705945	Exp3_Huffman.exe	3febf81f0442ec5a
+2	103	6907037984326071	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+104	277	6907037986026451	Exp3_Huffman.exe	3febf81f0442ec5a
+2	93	6907038668722613	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+94	257	6907038670322970	Exp3_Huffman.exe	3febf81f0442ec5a
+2	97	6907040077120829	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+98	287	6907040078961239	Exp3_Huffman.exe	3febf81f0442ec5a
+2	142	6907043417066287	CMakeFiles/Exp3_Huffman.dir/main.c.obj	ff7f9fb262a13e10
+144	328	6907043418936701	Exp3_Huffman.exe	3febf81f0442ec5a

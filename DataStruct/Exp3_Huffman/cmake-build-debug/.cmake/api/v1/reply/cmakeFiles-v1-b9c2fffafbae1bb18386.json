@@ -105,8 +105,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "E:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/cmake-build-debug",
-		"source" : "E:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman"
+		"build" : "E:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/cmake-build-debug",
+		"source" : "E:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman"
 	},
 	"version" : 
 	{

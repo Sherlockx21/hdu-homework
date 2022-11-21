@@ -6,13 +6,10 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(Exp3_Huffman
-        decoding.c
-        decoding.h
-        encoding.c
-        encoding.h
-        initialize.c
-        initialize.h
-        textprint.c
-        textprint.h
-        treeprint.c
-        treeprint.h main.c)
+        union_H.h
+        huffman.c
+        huffman.h
+        text.c
+        text.h
+        stack.c
+        stack.h  main.c)

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/cmake-build-debug"
+			"value" : "e:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman"
+			"value" : "E:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1095,7 +1095,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman/cmake-build-debug"
+			"value" : "E:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman/cmake-build-debug"
 		},
 		{
 			"name" : "Exp3_Huffman_IS_TOP_LEVEL",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/Gitfile/hdu-homework/DataStruct/Exp3_Huffman"
+			"value" : "E:/Gitfile/hdu_homework/DataStruct/Exp3_Huffman"
 		}
 	],
 	"kind" : "cache",

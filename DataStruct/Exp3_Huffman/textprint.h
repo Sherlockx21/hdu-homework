@@ -1,8 +1,0 @@
-//
-// Created by hang on 2022/10/27.
-//
-
-#ifndef EXP3_HUFFMAN_TEXTPRINT_H
-#define EXP3_HUFFMAN_TEXTPRINT_H
-
-#endif //EXP3_HUFFMAN_TEXTPRINT_H

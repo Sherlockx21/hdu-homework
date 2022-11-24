@@ -1,7 +1,0 @@
-id:0 ch:a weight:3 parent:6 lchild:-1 rchild:-1
-id:1 ch:b weight:2 parent:5 lchild:-1 rchild:-1
-id:2 ch:c weight:1 parent:4 lchild:-1 rchild:-1
-id:3 ch:d weight:1 parent:4 lchild:-1 rchild:-1
-id:4 ch: weight:2 parent:5 lchild:2 rchild:3
-id:5 ch:° weight:4 parent:6 lchild:1 rchild:4
-id:6 ch:e weight:7 parent:-1 lchild:0 rchild:5

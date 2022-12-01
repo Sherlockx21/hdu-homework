@@ -1,0 +1,87 @@
+{
+    "Global": {
+        "Version": 4.0,
+        "LinearSolver": "PARDISO",
+        "EigenSolver": "LANCZOS",
+        "Memory": 0,
+        "Dimension": 3
+    },
+    "Output": {
+        "Field": [],
+        "Format": "Binary"
+    },
+    "Material": {
+        "Material1": {
+            "Type": "Elastic",
+            "EleSet": "set-2",
+            "ElasticModulus": 202500000000.0,
+            "PoissonRatio": 0.3,
+            "Density": 0.0,
+            "ThermalExpansion": 0.0
+        }
+    },
+    "Element": {
+        "set-1": [
+            "Tet10"
+        ],
+        "set-4": [
+            "Tri3",
+            "Tri6",
+            "Quad4",
+            "Quad8"
+        ]
+    },
+    "Constraint": {
+        "Boundary": {
+            "set-3": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    "Analysis": {
+        "JobSetting": {
+            "Type": "General",
+            "Parameter": {
+                "GeoNonlinear": false,
+                "TimeDepend": false,
+                "TimePeriod": 1.0,
+                "FixStepNum": -1,
+                "MaxStepNum": 1000,
+                "IterMaxNum": 25,
+                "IterLimit": 50,
+                "InitStep": 1.0,
+                "MaxStep": 1.0,
+                "MinStep": 0.00001,
+                "DispConvTol": 0.001,
+                "RotationConvTol": 0.001,
+                "ResidualConvTol": 0.001,
+                "AbsResidualConvTol": 0.0,
+                "OutputInterval": 1,
+                "OutTimeInterval": 0.0,
+                "Alpha": -0.05
+            },
+            "Load": {
+                "Force": {
+                    "Type": "Surface",
+                    "Status": "Created",
+                    "EleSet": "set-4",
+                    "TimeCurve": "DEFAULT",
+                    "DistributeType": "Total",
+                    "Direction": [
+                        0.0,
+                        4327.5,
+                        0.0
+                    ],
+                    "Value": [
+                        4327.5
+                    ]
+                }
+            }
+        }
+    }
+}

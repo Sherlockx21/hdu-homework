@@ -228,8 +228,8 @@ void File_Encode(const char *instr,const char *outstr){
 	//对输入文件进行编码，写入输出文件
 	while((ch = fgetc(fp)) != EOF){
 		//fscanf(fp,"%c",&ch);
-        //printf("%c",ch);
-		fprintf(out,"%s",myhuff->code[Find_Code(myhuff,ch)].encode);
+        printf("%s",myhuff->code[Find_Code(myhuff,ch)].encode);
+		//fprintf(out,"%s",myhuff->code[Find_Code(myhuff,ch)].encode);
 	}
     fclose(fp);
 	//关闭out文件流
@@ -247,7 +247,7 @@ void File_Decode(const char *instr,const char *outstr){
     text = CreateText(0);//创建文本
     fp = fopen(instr,"r");//只读方式打开输入文件
     out = fopen(outstr,"wt+");//可写创建或打开输出文件
-    fclose(fp);//后面用不到，及时关闭，节省内存
+    //fclose(fp);//后面用不到，及时关闭，节省内存
     //HuffMan_Decode(text,myhuff);
     int node,root;
     for(int i = 0;i < myhuff->kindnum;i++){ //找到根
@@ -261,7 +261,8 @@ void File_Decode(const char *instr,const char *outstr){
         if(ch == '0') node = myhuff->node[node].lchild;
         if(ch == '1') node = myhuff->node[node].rchild;
         if(myhuff->node[node].lchild == -1 && myhuff->node[node].rchild == -1){
-            fprintf(out,"%c",myhuff->node[node].ch);
+            printf("%c",myhuff->node[node].ch);
+            //fprintf(out,"%c",myhuff->node[node].ch);
             node = root;
         }
     }

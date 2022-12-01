@@ -1,0 +1,7 @@
+#
+# New case file format for:  mesh
+#
+FORMAT
+type:                   ensight gold
+GEOMETRY
+model:                  mesh.geo

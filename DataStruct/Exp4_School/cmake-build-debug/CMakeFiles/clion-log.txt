@@ -1,0 +1,4 @@
+"D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.1.1/bin/ninja/win/ninja.exe" -G Ninja -S E:\Gitfile\hdu_homework\DataStruct\Exp4_School -B E:\Gitfile\hdu_homework\DataStruct\Exp4_School\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Gitfile/hdu_homework/DataStruct/Exp4_School/cmake-build-debug

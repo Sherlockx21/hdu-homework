@@ -1,8 +1,8 @@
-# Install script for directory: E:/Gitfile/hdu-homework/DataStruct/Exp2_Language
+# Install script for directory: E:/Gitfile/hdu_homework/DataStruct/Exp2_Language
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Exp2_Parkinglot")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Exp2_Language")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Gitfile/hdu-homework/DataStruct/Exp2_Language/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Gitfile/hdu_homework/DataStruct/Exp2_Language/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

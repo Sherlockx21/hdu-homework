@@ -1,0 +1,27 @@
+FORMAT
+type: ensight gold
+
+
+GEOMETRY
+model: 1-General.00000.geo
+
+VARIABLE
+vector per node: 1 Disp 1-General.*****.Disp
+vector per node: 1 Rotation 1-General.*****.Rotation
+tensor symm per node: 1 S 1-General.*****.S
+scalar per node: 1 Mises 1-General.*****.Mises
+vector per node: 1 PrincipalS 1-General.*****.PrincipalS
+scalar per node: 1 Tresca 1-General.*****.Tresca
+tensor symm per node: 1 E 1-General.*****.E
+vector per node: 1 PrincipalE 1-General.*****.PrincipalE
+vector per node: 1 RF 1-General.*****.RF
+vector per node: 1 RM 1-General.*****.RM
+scalar per node: 1 Material 1-General.*****.Material
+
+TIME
+time set: 1
+number of steps: 2
+filename start number: 00000
+filename increment: 00001
+time values: 
+0.000000e+000 1.000000e+000 

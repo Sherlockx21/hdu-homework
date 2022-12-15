@@ -1,18 +1,10 @@
 # ninja log v5
-1	188	6866571994058308	build.ninja	a4edf8e6ee28760d
-3	827	6866568627278987	CMakeFiles/Joseph.dir/main.c.obj	ca9f61115c7ba57d
-3	130	6866556777905231	CMakeFiles/Joseph.dir/mylist.c.obj	5e54d095eadc2110
-827	1046	6866568629429484	Joseph.exe	3ee3f39d0c0cc652
-12	100	6866568368604255	CMakeFiles/Joseph.dir/joseph.c.obj	ca12afe692e4fe5f
-18	113	6866572128553304	CMakeFiles/Joseph.dir/joseph.c.obj	596aa66bc475ff3a
-11	133	6866572128763342	CMakeFiles/Joseph.dir/mylist.c.obj	11e78d7a7e9dd9ce
-3	792	6866572135350757	CMakeFiles/Joseph.dir/main.c.obj	666f1dfb48059e0f
-793	970	6866572137094793	Joseph.exe	3ee3f39d0c0cc652
+1	188	6921679795382526	build.ninja	a4edf8e6ee28760d
 3	791	6866573210857402	CMakeFiles/Joseph.dir/main.c.obj	666f1dfb48059e0f
-792	978	6866573212687815	Joseph.exe	3ee3f39d0c0cc652
-3	92	6866573869596656	CMakeFiles/Joseph.dir/joseph.c.obj	596aa66bc475ff3a
-93	272	6866573871347047	Joseph.exe	3ee3f39d0c0cc652
-2	88	6866577337031455	CMakeFiles/Joseph.dir/joseph.c.obj	596aa66bc475ff3a
-89	265	6866577338771417	Joseph.exe	3ee3f39d0c0cc652
-3	89	6866578014504702	CMakeFiles/Joseph.dir/joseph.c.obj	596aa66bc475ff3a
+11	133	6866572128763342	CMakeFiles/Joseph.dir/mylist.c.obj	11e78d7a7e9dd9ce
 90	260	6866578016175224	Joseph.exe	3ee3f39d0c0cc652
+3	89	6866578014504702	CMakeFiles/Joseph.dir/joseph.c.obj	596aa66bc475ff3a
+17	116	6921679863024904	CMakeFiles/Joseph.dir/joseph.c.obj	bd438d86322472c7
+10	140	6921679863264982	CMakeFiles/Joseph.dir/mylist.c.obj	9d1005a6be404a78
+2	898	6921679870872967	CMakeFiles/Joseph.dir/main.c.obj	a6f1d11ec566ab8d
+898	1071	6921679872553509	Joseph.exe	3ee3f39d0c0cc652

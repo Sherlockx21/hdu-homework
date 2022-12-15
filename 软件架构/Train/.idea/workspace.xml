@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a637d930-cb31-49c9-a252-dd0887fda22e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f602180282c95b1befe6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2511c925e582c777b108.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-13aa7191b31a3dd9776c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.cmake/api/v1/reply/index-2022-10-05T07-13-19-0482.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/Joseph.dir/joseph.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/Joseph.dir/joseph.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/Joseph.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/Joseph.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/Joseph.dir/mylist.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/Joseph.dir/mylist.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/Joseph.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/Joseph.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp1_JosephRing/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a4cc4c8b973e9017268e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3da8f1f4e93195103779.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b21fc32dee1b438dc5b7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.cmake/api/v1/reply/index-2022-10-27T02-34-28-0986.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.cmake/api/v1/reply/target-Exp2_Language-Debug-bd030c902862d8f95d21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/Define.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/Parse.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/Parse.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/Translator.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/Translator.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/check.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/check.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/queue.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/queue.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/stack.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/Exp2_Language.dir/stack.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/Exp2_Language.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/Exp2_Language.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp2_Language/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/CMakeFiles/Exp4_School.dir/map.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/CMakeFiles/Exp4_School.dir/map.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/CMakeFiles/Exp4_School.dir/system.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/CMakeFiles/Exp4_School.dir/system.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/Exp4_School.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/Exp4_School.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataStruct/Exp4_School/system.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataStruct/Exp4_School/system.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/TrainSystemApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/config/MybatisplusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/controller/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/entity/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/mapper/AdminMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/service/AdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/service/impl/AdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/com/trainsystem/util/JWTUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/java/result/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/main/resources/static/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_be/src/test/java/com/trainsystem/TrainSystemApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/components/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/components/home/AppIndex.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/unit/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/unit/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/unit/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrainSystem/trainsystem_fe/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2IlYsGGHmW4A5DQ90qEPjMvZggf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a637d930-cb31-49c9-a252-dd0887fda22e" name="Changes" comment="" />
+      <created>1670757845219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670757845219</updated>
+      <workItem from="1670757846932" duration="116000" />
+      <workItem from="1671012370649" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

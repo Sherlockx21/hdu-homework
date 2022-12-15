@@ -1,0 +1,274 @@
+{
+    "AnalysisResult": {
+        "1-General": "通用分析"
+    },
+    "Solver": "Structure",
+    "Variable": {
+        "CPress": {
+            "Unit": "N"
+        },
+        "CPressure": {
+            "Unit": "Pa"
+        },
+        "Disp": {
+            "Unit": "m"
+        },
+        "Epot": {
+            "Unit": "V"
+        },
+        "Fiber1_Mises": {
+            "Unit": "Pa"
+        },
+        "Fiber1_S": {
+            "Unit": "Pa",
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber2_Mises": {
+            "Unit": "Pa"
+        },
+        "Fiber2_S": {
+            "Unit": "Pa",
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber3_Mises": {
+            "Unit": "Pa"
+        },
+        "Fiber3_S": {
+            "Unit": "Pa",
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber4_Mises": {
+            "Unit": "Pa"
+        },
+        "Fiber4_S": {
+            "Unit": "Pa",
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Layer1_Mises": {
+            "Unit": "Pa"
+        },
+        "Layer1_PrincipalS": {
+            "Unit": "Pa",
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Layer1_S": {
+            "Unit": "Pa"
+        },
+        "Layer5_Mises": {
+            "Unit": "Pa"
+        },
+        "Layer5_PrincipalS": {
+            "Unit": "Pa",
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Layer5_S": {
+            "Unit": "Pa"
+        },
+        "Mises": {
+            "Unit": "Pa"
+        },
+        "PrincipalS": {
+            "Unit": "Pa",
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "RF": {
+            "Unit": "N"
+        },
+        "RM": {
+            "Unit": "N*m"
+        },
+        "Rotation": {
+            "Unit": "rad"
+        },
+        "S": {
+            "Unit": "Pa"
+        },
+        "SecF": {
+            "Unit": "N"
+        },
+        "SecM": {
+            "Unit": "N*m"
+        },
+        "Tresca": {
+            "Unit": "Pa"
+        },
+        "TrussF": {
+            "Unit": "N"
+        },
+        "TrussS": {
+            "Unit": "Pa"
+        },
+        "Velocity": {
+            "Unit": "m/s"
+        },
+        "PrincipalE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "PrincipalCE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "PrincipalPE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Layer1_PrincipalE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Layer5_PrincipalE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Layer1_PrincipalPE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Layer5_PrincipalPE": {
+            "Suffix": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "Fiber1_E": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber2_E": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber3_E": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber4_E": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber1_PE": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber2_PE": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber3_PE": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        },
+        "Fiber4_PE": {
+            "Suffix": [
+                "11",
+                "22",
+                "33",
+                "12",
+                "23",
+                "13"
+            ]
+        }
+    }
+}

@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\Gitfile\hdu-homework\DataStruct\Exp2_Language -BE:\Gitfile\hdu-homework\DataStruct\Exp2_Language\cmake-build-debug
+  command = "D:\CLion 2022.1.1\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\Gitfile\hdu_homework\DataStruct\Exp2_Language -BE:\Gitfile\hdu_homework\DataStruct\Exp2_Language\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

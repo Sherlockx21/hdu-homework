@@ -81,4 +81,6 @@ void File_Decode(const char *instr,const char *outstr);
 
 void PrintAverageWe(HuffMan *huffman);
 
+void PrintTree(char* out);
+
 #endif

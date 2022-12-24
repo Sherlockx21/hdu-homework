@@ -202,7 +202,17 @@ void File_Encode(const char *instr,const char *outstr){
 	unsigned char ch;
 
 	fp = fopen(instr,"r");//只读方式打开输入文件
+    if (fp == NULL) {
+        // 文件打开失败
+        perror("Error opening file");
+        return;
+    }
 	out = fopen(outstr,"wt+");//可写创建或打开输出文件
+    if (out == NULL) {
+        // 文件打开失败
+        perror("Error opening file");
+        return;
+    }
 	//开始统计文本长度已经字符频率
 //	while((ch = fgetc(fp)) != 255){//文本未结束
 //		//fscanf(fp,"%c",&ch);
@@ -228,8 +238,10 @@ void File_Encode(const char *instr,const char *outstr){
 	//对输入文件进行编码，写入输出文件
 	while((ch = fgetc(fp)) != EOF){
 		//fscanf(fp,"%c",&ch);
-        printf("%s",myhuff->code[Find_Code(myhuff,ch)].encode);
-		//fprintf(out,"%s",myhuff->code[Find_Code(myhuff,ch)].encode);
+//        printf("%c",ch);
+//        printf("%s\n",myhuff->code[Find_Code(myhuff,ch)].encode);
+//        fflush(stdout);
+		fprintf(out,"%s",myhuff->code[Find_Code(myhuff,ch)].encode);
 	}
     fclose(fp);
 	//关闭out文件流
@@ -261,8 +273,8 @@ void File_Decode(const char *instr,const char *outstr){
         if(ch == '0') node = myhuff->node[node].lchild;
         if(ch == '1') node = myhuff->node[node].rchild;
         if(myhuff->node[node].lchild == -1 && myhuff->node[node].rchild == -1){
-            printf("%c",myhuff->node[node].ch);
-            //fprintf(out,"%c",myhuff->node[node].ch);
+//            printf("%c",myhuff->node[node].ch);
+            fprintf(out,"%c",myhuff->node[node].ch);
             node = root;
         }
     }
@@ -294,4 +306,33 @@ void PrintAverageWe(HuffMan *huffman){
 		sum += huffman->node[i].weight*huffman->code[i].length;
 	}
 	printf("平均码长为：%lf",sum/1.0/m);
+}
+
+// Recursive helper function to print the tree
+void print_tree_visual_helper(TreeNode *node, int level,char *out) {
+    if (node == NULL) {
+        return;
+    }
+    for (int i = 0; i < level; i++) {
+        fprintf(out, " ");
+    }
+    fprintf(out, "%c", node->ch);
+	fprintf(out,"\n");
+    print_tree_visual_helper(node->lchild, level + 1,out);
+    print_tree_visual_helper(node->rchild, level + 1,out);
+}
+
+void print_huffman_tree_visual(HuffMan* root,char* out) {
+    // Open the output file
+    FILE* fp = fopen("out", "w");
+    if (fp == NULL) {
+        perror("Error opening file");
+        return;
+    }
+    print_tree_visual_helper(root->node, 0,fp);
+    fclose(fp);
+}
+
+void PrintTree(char* out){
+    print_huffman_tree_visual(myhuff, out);
 }
